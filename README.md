@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=Building+intelligent+web+systems+from+Caraga%2C+PH+🇵🇭;Python+%7C+React+%7C+Laravel+%7C+ML+%7C+Docker;Turning+coffee+into+code+since+2019+☕" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=Building+intelligent+web+systems+from+Caraga%2C+PH;Python+%7C+React+%7C+Laravel+%7C+ML+%7C+Docker;Turning+coffee+into+code+since+2019" alt="Subtitle" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1dWRhMW9yN2U5bzBxd3h1dWZsYTJ2dTNxdXZ6bHZpbHQ2dDl4biZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### `> whoami`
 
@@ -27,8 +27,8 @@
 developer = {
     "name"     : "James Micarandayo",
     "location" : "Caraga, Philippines 🇵🇭",
-    "role"     : "Full-Stack Developer & ML Engineer",
-    "education": "BS Information Technology @ CSU (2026)",
+    "role"     : "Full-Stack Developer & Software Engr",
+    "education": "BS Information Technology @ CSU ",
     "focus"    : ["Web Applications", "Computer Vision",
                   "API Architecture", "Edge AI"],
     "available": True
@@ -118,7 +118,7 @@ developer = {
 </details>
 
 <details>
-<summary><b>🌿 Virtual Eco-Tourism Platform</b> — Laravel · Google Maps API · MySQL</summary>
+<summary><b>LeafChain Technology: Blockchain Integration with Binary Multilevel Marketing</b> — Laravel · Google Maps API · MySQL</summary>
 <br>
 
 > Interactive tourism platform with virtual destination tours, activity booking, sustainability tracking, and Google Maps integration.
