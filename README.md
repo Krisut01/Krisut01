@@ -1,21 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey%2C+I'm+James+Micarandayo+%F0%9F%91%8B;Full-Stack+Developer+%7C+ML+Enthusiast" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=480&lines=Building+intelligent+web+systems+from+Caraga%2C+PH;Python+%7C+React+%7C+Laravel+%7C+ML+%7C+Docker;Turning+coffee+into+code+since+2019" alt="Subtitle" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-micarandayo-4b1739180/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micarandayo2019@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisut01)
-
-</div>
 
 ---
 
