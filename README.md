@@ -65,51 +65,6 @@ developer = {
 
 ---
 
-### `> git log --oneline --projects`
-
-<details>
-<summary><b>🛡️ Phishing Email Classifier</b> — Python · FastAPI · scikit-learn · Gmail API</summary>
-<br>
-
-> End-to-end ML pipeline for phishing detection using TF-IDF + Logistic Regression. Integrated Gmail API with OAuth 2.0. Deployable as REST API or CLI tool.
-
-</details>
-
-<details>
-<summary><b>😴 Driver Fatigue Detection System</b> — Python · OpenCV · TensorFlow Lite · Android</summary>
-<br>
-
-> Real-time computer vision system using custom CNN for fatigue detection (eye aspect ratio, yawn detection). Quantized and deployed on-device via Google ML Kit for low-latency, privacy-preserving inference.
-
-</details>
-
-<details>
-<summary><b>🔒 Academic Files Management System</b> — Laravel · MySQL · AES-256</summary>
-<br>
-
-> Secure document platform with AES-256 encryption, 3-tier RBAC (Student / Faculty / Admin), and a full audit logging system.
-
-</details>
-
-<details>
-<summary><b>🚔 Online Crime Management System</b> — Django · MySQL · JWT</summary>
-<br>
-
-> Crime reporting platform with automated case categorization, multi-level auth (Civilian / Officer / Admin), and admin dashboard with real-time alert system.
-
-</details>
-
-<details>
-<summary><b>LeafChain Technology: Blockchain Integration with Binary Multilevel Marketing</b> — Laravel · Google Maps API · MySQL</summary>
-<br>
-
-> Interactive tourism platform with virtual destination tours, activity booking, sustainability tracking, and Google Maps integration.
-
-</details>
-
----
-
-
 ### `> certifications --list`
 
 ```
@@ -120,6 +75,7 @@ developer = {
 ✔  Prompt Engineering Certificate                        [Coursera]
 ✔  Certified Cybersecurity Educator Professional (CCEP)
 ✔  HACKFORGOV: Capture-the-Flag Competition              [DICT]
+✔  Certified Ethical Hacker (CEH)                 [EC-Council]
 ```
 
 ---
