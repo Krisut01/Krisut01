@@ -68,14 +68,14 @@ developer = {
 ### `> certifications --list`
 
 ```
-✔  IBM Full Stack Software Developer Certificate          [Coursera]
+✔  IBM Full Stack Software Developer Certificate         [Coursera]
 ✔  Google IT Support Professional Certificate            [Coursera]
 ✔  Google IT Automation with Python                      [Coursera]
 ✔  Google Project Management Professional Certificate    [Coursera]
 ✔  Prompt Engineering Certificate                        [Coursera]
 ✔  Certified Cybersecurity Educator Professional (CCEP)
 ✔  HACKFORGOV: Capture-the-Flag Competition              [DICT]
-✔  Certified Ethical Hacker (CEH)                 [EC-Council]
+✔  Certified Ethical Hacker (CEH)                        [EC-Council]
 ```
 
 ---
