@@ -1,25 +1,5 @@
 
----
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### `> whoami`
-
-```python
-developer = {
-    "name"     : "James Micarandayo",
-    "location" : "Caraga, Philippines 🇵🇭",
-    "role"     : "Full-Stack Developer & Software Engr",
-    "education": "BS Information Technology @ CSU ",
-    "focus"    : ["Web Applications", "Computer Vision",
-                  "API Architecture", "Edge AI"],
-    "available": True
-}
-```
-
-<br clear="right"/>
-
----
 
 ### `> tech_stack --list`
 
